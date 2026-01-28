@@ -1,8 +1,8 @@
 # Original datasets
-.Dataset_Details.docx
-.Titanic.xlsx
+Dataset_Details.docx
+Titanic.xlsx
 # Database
-.titanic.db
+titanic.db
 # OS files
 .DS_Store
 Thumbs.db
